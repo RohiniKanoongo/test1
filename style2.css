@@ -1,7 +1,13 @@
 div{
-    padding-right: 600px;
+    padding-right: 500px;
+    text-align: center;
 }
 
-/* fieldset{
+input{
     border-radius: 20px;
-} */
+    border-color: gray;
+    padding: 10px 5px;
+}
+.Part2-button{
+    background-color:orchid
+}
